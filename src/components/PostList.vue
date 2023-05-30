@@ -11,7 +11,6 @@ export default {
     posts: {
       type: Array,
       required: true,
-
     }
   }
 }
@@ -19,7 +18,7 @@ export default {
 
 <style scoped>
 .post {
-  border: 1px solid #ccc;
+  border: 1px solid #cccccc;
   padding: 10px;
   margin-top: 20px;
   background-color: #f9f9f9;
